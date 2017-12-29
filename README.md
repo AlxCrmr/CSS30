@@ -4,7 +4,7 @@
 
 ## My Completed Projects List
 
-| No  |  Project Title  |  Completed On |
-| :------------: | :------------: | :------------: |
-| 1  | [Day01]() |------------ |
-| 2  | ------------ |------------ |
+| No  |  Project Title  |  Completed On | CodePen |
+| :------------: | :------------: | :------------: | :------------: |
+| 1  | [Day01](https://github.com/AlxCrmr/CSS30/tree/master/Day01) |------------ |------------|
+| 2  | ------------ |------------ |------------|
