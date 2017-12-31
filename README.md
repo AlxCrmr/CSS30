@@ -8,7 +8,7 @@
 | :------------: | :------------: | :------------: | :------------: |
 | 1 | [Day 01 - Fancy Buttons](https://github.com/AlxCrmr/CSS30/tree/master/Day01) |December 28th, 2017 |[CodePen](https://codepen.io/AlxCrmr/full/YYZgyB/)|
 | 2 | [Day 02 - Sexy Typography](https://github.com/AlxCrmr/CSS30/tree/master/Day02) |December 29th, 2017 |[CodePen](https://codepen.io/AlxCrmr/full/OzmbQr/)|
-| 3 | [Day 03 - Clipping Images with Shapes](https://github.com/AlxCrmr/CSS30/tree/master/Day03) |------------ |------------|
+| 3 | [Day 03 - Clipping Images with Shapes](https://github.com/AlxCrmr/CSS30/tree/master/Day03) |December 30th, 2017 |[CodePen](https://codepen.io/AlxCrmr/full/BJRxmd/)|
 | 4 | [Day 04 - Sexy User Interface Forms](https://github.com/AlxCrmr/CSS30/tree/master/Day04) |------------ |------------|
 | 5 | [Day 05 - Useful Broken Images](https://github.com/AlxCrmr/CSS30/tree/master/Day05) |------------ |------------|
 | 6 | [Day 06 - Print Styles](https://github.com/AlxCrmr/CSS30/tree/master/Day06) |------------ |------------|
