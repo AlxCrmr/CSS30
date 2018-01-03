@@ -11,7 +11,7 @@
 | 3 | [Day 03 - Clipping Images with Shapes](https://github.com/AlxCrmr/CSS30/tree/master/Day03) |December 30th, 2017 |[CodePen](https://codepen.io/AlxCrmr/full/BJRxmd/)|
 | 4 | [Day 04 - Sexy User Interface Forms](https://github.com/AlxCrmr/CSS30/tree/master/Day04) |December 31st, 2017 |[CodePen](https://codepen.io/AlxCrmr/full/MrmMmJ/)|
 | 5 | [Day 05 - Useful Broken Images](https://github.com/AlxCrmr/CSS30/tree/master/Day05) |January 1st, 2018 |[CodePen](https://codepen.io/AlxCrmr/full/JMJXrR/)|
-| 6 | [Day 06 - Print Styles](https://github.com/AlxCrmr/CSS30/tree/master/Day06) |------------ |------------|
+| 6 | [Day 06 - Print Styles](https://github.com/AlxCrmr/CSS30/tree/master/Day06) |January 2nd, 2018 |N/A|
 | 7 | [Day 07 - Image Manipulation](https://github.com/AlxCrmr/CSS30/tree/master/Day07) |------------ |------------|
 | 8 | [Day 08 - 8-Bit Mario](https://github.com/AlxCrmr/CSS30/tree/master/Day08) |------------ |------------|
 | 9 | [Day 09 - Modern Layout](https://github.com/AlxCrmr/CSS30/tree/master/Day09) |------------ |------------|
