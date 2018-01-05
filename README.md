@@ -13,6 +13,6 @@
 | 5 | [Day 05 - Useful Broken Images](https://github.com/AlxCrmr/CSS30/tree/master/Day05) |January 1st, 2018 |[CodePen](https://codepen.io/AlxCrmr/full/JMJXrR/)|
 | 6 | [Day 06 - Print Styles](https://github.com/AlxCrmr/CSS30/tree/master/Day06) |January 2nd, 2018 |N/A|
 | 7 | [Day 07 - Image Manipulation](https://github.com/AlxCrmr/CSS30/tree/master/Day07) |January 3rd, 2018 |[CodePen](https://codepen.io/AlxCrmr/full/ypXQYN/)|
-| 8 | [Day 08 - 8-Bit Mario](https://github.com/AlxCrmr/CSS30/tree/master/Day08) |------------ |------------|
+| 8 | [Day 08 - 8-Bit Mario](https://github.com/AlxCrmr/CSS30/tree/master/Day08) |January 4th, 2018 |[CodePen](https://codepen.io/AlxCrmr/full/WdZdXx/)|
 | 9 | [Day 09 - Modern Layout](https://github.com/AlxCrmr/CSS30/tree/master/Day09) |------------ |------------|
 | 10 | [Day 10 - Pricing Table](https://github.com/AlxCrmr/CSS30/tree/master/Day10) |------------ |------------|
