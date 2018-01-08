@@ -16,4 +16,4 @@
 | 8 | [Day 08 - 8-Bit Mario](https://github.com/AlxCrmr/CSS30/tree/master/Day08) |January 4th, 2018 |[CodePen](https://codepen.io/AlxCrmr/full/WdZdXx/)|
 | 9 | [Day 09 - Modern Layout](https://github.com/AlxCrmr/CSS30/tree/master/Day09) |January 5th, 2018 |N/A|
 | 10 | [Day 10 - Pricing Table](https://github.com/AlxCrmr/CSS30/tree/master/Day10) |January 6th, 2018 |[CodePen](https://codepen.io/AlxCrmr/full/jYaKdx/)|
-|11| ------------ | ------------ | ------------ |
+|11| [Day 11 - Internet Explorer Hacks](https://github.com/AlxCrmr/CSS30/tree/master/Day11) |January 6th, 2018 | N/A |
